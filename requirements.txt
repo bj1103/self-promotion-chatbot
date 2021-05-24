@@ -1,0 +1,4 @@
+Flask==1.1.2
+line-bot-sdk==1.19.0
+azure-cognitiveservices-language-luis==0.7.0
+gunicorn
