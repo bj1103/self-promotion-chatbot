@@ -4,7 +4,7 @@
 
 Notice : 盡量使用手機與chatbot互動，能保證有完整的功能(ex. 電腦版的Line未必有支援選單服務)
 
-![qrcode](/Users/kevin/Desktop/linebot/qrcode.png)
+![qrcode](./qrcode.png)
 
 ## Chatbot介紹
 
