@@ -10,14 +10,15 @@ import configparser
 import random
 import json
 from messages import *
+import os
 
 app = Flask(__name__)
 
 config = configparser.ConfigParser()
 config.read('config.ini')
 
-line_bot_api = LineBotApi(config.get('line-bot', 'channel_access_token'))
-handler = WebhookHandler(config.get('line-bot', 'channel_secret'))
+line_bot_api = LineBotApi(os.getenv('channel_access_token', None))
+handler = WebhookHandler(os.getenv('channel_secret', None))
 
 with open("./education.json") as f:
 	education = json.load(f)
