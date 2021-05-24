@@ -134,3 +134,4 @@ dmypy.json
 ngrok
 config.ini
 .DS_Store
+*.sh
