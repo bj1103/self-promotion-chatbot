@@ -5,7 +5,6 @@ from linebot import LineBotApi, WebhookHandler
 from linebot.exceptions import InvalidSignatureError
 from linebot.models import MessageEvent, TextMessage, TextSendMessage, FlexSendMessage
 from luis import getIntent
-import configparser
 
 import random
 import json
@@ -13,9 +12,6 @@ from messages import *
 import os
 
 app = Flask(__name__)
-
-config = configparser.ConfigParser()
-config.read('config.ini')
 
 line_bot_api = LineBotApi(os.getenv('channel_access_token', None))
 handler = WebhookHandler(os.getenv('channel_secret', None))

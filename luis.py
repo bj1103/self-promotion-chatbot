@@ -1,10 +1,6 @@
 from azure.cognitiveservices.language.luis.runtime import LUISRuntimeClient
 from msrest.authentication import CognitiveServicesCredentials
-import configparser
 import os
-
-config = configparser.ConfigParser()
-config.read('config.ini')
 
 predictionKey = os.getenv('predictionKey', None)
 predictionEndpoint = os.getenv('predictionEndpoint', None)
