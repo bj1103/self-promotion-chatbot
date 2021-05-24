@@ -1,0 +1,744 @@
+{
+    "type": "bubble",
+    "size": "mega",
+    "header": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "My education background",
+              "color": "#ffffff",
+              "size": "lg",
+              "flex": 4,
+              "weight": "bold",
+              "contents": [],
+              "position": "relative",
+              "align": "center",
+              "style": "normal"
+            }
+          ]
+        }
+      ],
+      "paddingAll": "20px",
+      "backgroundColor": "#6486E3",
+      "spacing": "md",
+      "height": "70px",
+      "paddingTop": "22px"
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "text",
+              "text": "2018",
+              "size": "sm",
+              "gravity": "center"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "filler"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [],
+                  "cornerRadius": "30px",
+                  "height": "12px",
+                  "width": "12px",
+                  "borderColor": "#6486E3",
+                  "borderWidth": "2px"
+                },
+                {
+                  "type": "filler"
+                }
+              ],
+              "flex": 0
+            },
+            {
+              "type": "text",
+              "text": "畢業於臺北市立建國中學",
+              "gravity": "center",
+              "flex": 4,
+              "size": "sm"
+            }
+          ],
+          "spacing": "lg",
+          "cornerRadius": "30px",
+          "margin": "xl"
+        },
+        {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "filler"
+                }
+              ],
+              "flex": 1
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "filler"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "contents": [],
+                      "width": "2px",
+                      "backgroundColor": "#6486E3"
+                    },
+                    {
+                      "type": "filler"
+                    }
+                  ],
+                  "flex": 1
+                }
+              ],
+              "width": "12px"
+            },
+            {
+              "type": "text",
+              "gravity": "center",
+              "flex": 4,
+              "size": "xs",
+              "color": "#8c8c8c",
+              "text": " "
+            }
+          ],
+          "spacing": "lg",
+          "height": "32px"
+        },
+        {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "2018",
+                  "gravity": "center",
+                  "size": "sm"
+                }
+              ],
+              "flex": 1
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "filler"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [],
+                  "cornerRadius": "30px",
+                  "width": "12px",
+                  "height": "12px",
+                  "borderWidth": "2px",
+                  "borderColor": "#6486E3"
+                },
+                {
+                  "type": "filler"
+                }
+              ],
+              "flex": 0
+            },
+            {
+              "type": "text",
+              "text": "進入國立臺灣大學 大一",
+              "gravity": "center",
+              "flex": 4,
+              "size": "sm"
+            }
+          ],
+          "spacing": "lg",
+          "cornerRadius": "30px"
+        },
+        {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "filler"
+                }
+              ],
+              "flex": 1
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "filler"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "contents": [],
+                      "width": "2px",
+                      "backgroundColor": "#6486E3"
+                    },
+                    {
+                      "type": "filler"
+                    }
+                  ],
+                  "flex": 1
+                }
+              ],
+              "width": "12px"
+            },
+            {
+              "type": "text",
+              "text": "正式開始學習程式",
+              "gravity": "center",
+              "flex": 4,
+              "size": "xs",
+              "color": "#8c8c8c"
+            }
+          ],
+          "spacing": "lg",
+          "height": "40px"
+        },
+        {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "filler"
+                }
+              ],
+              "flex": 1
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "filler"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "contents": [],
+                      "width": "2px",
+                      "backgroundColor": "#6486E3"
+                    },
+                    {
+                      "type": "filler"
+                    }
+                  ],
+                  "flex": 1
+                }
+              ],
+              "width": "12px"
+            },
+            {
+              "type": "text",
+              "text": "修習網管相關課程",
+              "gravity": "center",
+              "flex": 4,
+              "size": "xs",
+              "color": "#8c8c8c"
+            }
+          ],
+          "spacing": "lg",
+          "height": "40px"
+        },
+        {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "text",
+              "text": "2019",
+              "gravity": "center",
+              "size": "sm"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "filler"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [],
+                  "cornerRadius": "30px",
+                  "width": "12px",
+                  "height": "12px",
+                  "borderColor": "#6486E3",
+                  "borderWidth": "2px"
+                },
+                {
+                  "type": "filler"
+                }
+              ],
+              "flex": 0
+            },
+            {
+              "type": "text",
+              "text": "大二",
+              "gravity": "center",
+              "flex": 4,
+              "size": "sm"
+            }
+          ],
+          "spacing": "lg",
+          "cornerRadius": "30px"
+        },
+        {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "filler"
+                }
+              ],
+              "flex": 1
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "filler"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "contents": [],
+                      "width": "2px",
+                      "backgroundColor": "#6486E3"
+                    },
+                    {
+                      "type": "filler"
+                    }
+                  ],
+                  "flex": 1
+                }
+              ],
+              "width": "12px"
+            },
+            {
+              "type": "text",
+              "text": "進入系上網管團隊(NASA)",
+              "gravity": "center",
+              "flex": 4,
+              "size": "xs",
+              "color": "#8c8c8c"
+            }
+          ],
+          "spacing": "lg",
+          "height": "40px"
+        },
+        {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "filler"
+                }
+              ],
+              "flex": 1
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "filler"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "contents": [],
+                      "width": "2px",
+                      "backgroundColor": "#6486E3"
+                    },
+                    {
+                      "type": "filler"
+                    }
+                  ],
+                  "flex": 1
+                }
+              ],
+              "width": "12px"
+            },
+            {
+              "type": "text",
+              "text": "開始修習機器學習相關課程",
+              "gravity": "center",
+              "flex": 4,
+              "size": "xs",
+              "color": "#8c8c8c"
+            }
+          ],
+          "spacing": "lg",
+          "height": "40px"
+        },
+        {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "text",
+              "text": "2020",
+              "gravity": "center",
+              "size": "sm"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "filler"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [],
+                  "cornerRadius": "30px",
+                  "width": "12px",
+                  "height": "12px",
+                  "borderColor": "#6486E3",
+                  "borderWidth": "2px"
+                },
+                {
+                  "type": "filler"
+                }
+              ],
+              "flex": 0
+            },
+            {
+              "type": "text",
+              "text": "大三",
+              "gravity": "center",
+              "flex": 4,
+              "size": "sm"
+            }
+          ],
+          "spacing": "lg",
+          "cornerRadius": "30px"
+        },
+        {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "filler"
+                }
+              ],
+              "flex": 1
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "filler"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "contents": [],
+                      "width": "2px",
+                      "backgroundColor": "#6486E3"
+                    },
+                    {
+                      "type": "filler"
+                    }
+                  ],
+                  "flex": 1
+                }
+              ],
+              "width": "12px"
+            },
+            {
+              "type": "text",
+              "gravity": "center",
+              "flex": 4,
+              "size": "xs",
+              "color": "#8c8c8c",
+              "text": "接觸各領域課程"
+            }
+          ],
+          "spacing": "lg",
+          "height": "40px"
+        },
+        {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "filler"
+                }
+              ],
+              "flex": 1
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "filler"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "contents": [],
+                      "width": "2px",
+                      "backgroundColor": "#6486E3"
+                    },
+                    {
+                      "type": "filler"
+                    }
+                  ],
+                  "flex": 1
+                }
+              ],
+              "width": "12px"
+            },
+            {
+              "type": "text",
+              "gravity": "top",
+              "flex": 4,
+              "size": "xxs",
+              "color": "#8c8c8c",
+              "text": "(ex. 網頁前後端、資料探勘、資訊安全)"
+            }
+          ],
+          "spacing": "lg",
+          "height": "28px"
+        },
+        {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "filler"
+                }
+              ],
+              "flex": 1
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "filler"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "contents": [],
+                      "width": "2px",
+                      "backgroundColor": "#6486E3"
+                    },
+                    {
+                      "type": "filler"
+                    }
+                  ],
+                  "flex": 1
+                }
+              ],
+              "width": "12px"
+            },
+            {
+              "type": "text",
+              "gravity": "center",
+              "flex": 4,
+              "size": "xs",
+              "color": "#8c8c8c",
+              "text": "接觸更多深度學習相關知識"
+            }
+          ],
+          "spacing": "lg",
+          "height": "40px"
+        },
+        {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "filler"
+                }
+              ],
+              "flex": 1
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "filler"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "contents": [],
+                      "width": "2px",
+                      "backgroundColor": "#6486E3"
+                    },
+                    {
+                      "type": "filler"
+                    }
+                  ],
+                  "flex": 1
+                }
+              ],
+              "width": "12px"
+            },
+            {
+              "type": "text",
+              "gravity": "center",
+              "flex": 4,
+              "size": "xs",
+              "color": "#8c8c8c",
+              "text": "獲得書卷獎"
+            }
+          ],
+          "spacing": "lg",
+          "height": "40px"
+        },
+        {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "text",
+              "text": "2021",
+              "gravity": "center",
+              "size": "sm"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "filler"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [],
+                  "cornerRadius": "30px",
+                  "width": "12px",
+                  "height": "12px",
+                  "borderColor": "#6486E3",
+                  "borderWidth": "2px"
+                },
+                {
+                  "type": "filler"
+                }
+              ],
+              "flex": 0
+            },
+            {
+              "type": "text",
+              "text": "now",
+              "gravity": "center",
+              "flex": 4,
+              "size": "sm"
+            }
+          ],
+          "spacing": "lg",
+          "cornerRadius": "30px"
+        }
+      ]
+    }
+  }

@@ -1,0 +1,347 @@
+{
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "image",
+              "url": "https://i.imgur.com/H7Lnlxv.jpg",
+              "size": "100%",
+              "aspectMode": "cover",
+              "aspectRatio": "9:17",
+              "gravity": "top"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Travel Recommended Chatbot",
+                      "size": "md",
+                      "color": "#ffffff",
+                      "weight": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "color": "#ebebeb",
+                      "size": "xxs",
+                      "flex": 0,
+                      "text": "A chatbot that recommends attractions to ",
+                      "margin": "md"
+                    },
+                    {
+                      "type": "text",
+                      "color": "#ebebeb",
+                      "size": "xxs",
+                      "flex": 0,
+                      "text": "users and schedules tourist",
+                      "margin": "none"
+                    }
+                  ],
+                  "spacing": "lg"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "filler"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "contents": [
+                        {
+                          "type": "filler"
+                        },
+                        {
+                          "type": "icon",
+                          "url": "https://i.imgur.com/t3lHXfK.png"
+                        },
+                        {
+                          "type": "text",
+                          "text": "View on github",
+                          "color": "#ffffff",
+                          "flex": 0,
+                          "offsetTop": "-2px"
+                        },
+                        {
+                          "type": "filler"
+                        }
+                      ],
+                      "spacing": "sm"
+                    },
+                    {
+                      "type": "filler"
+                    }
+                  ],
+                  "borderWidth": "1px",
+                  "cornerRadius": "4px",
+                  "spacing": "sm",
+                  "borderColor": "#ffffff",
+                  "margin": "xxl",
+                  "height": "40px",
+                  "action": {
+                    "type": "uri",
+                    "label": "action",
+                    "uri": "https://github.com/vincent10400094/travel_agent_dog"
+                  }
+                }
+              ],
+              "position": "absolute",
+              "offsetBottom": "0px",
+              "offsetStart": "0px",
+              "offsetEnd": "0px",
+              "backgroundColor": "#03303Acc",
+              "paddingAll": "20px",
+              "paddingTop": "18px"
+            }
+          ],
+          "paddingAll": "0px"
+        }
+      },
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "image",
+              "url": "https://i.imgur.com/0wJ0UuB.jpg",
+              "size": "90%",
+              "aspectMode": "cover",
+              "aspectRatio": "1:2",
+              "gravity": "top"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Word and Document Clustering with LSA",
+                      "size": "md",
+                      "color": "#ffffff",
+                      "weight": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "color": "#ebebeb",
+                      "size": "xxs",
+                      "flex": 0,
+                      "text": "Use Latent Semantic Analysis to cluster",
+                      "margin": "md"
+                    },
+                    {
+                      "type": "text",
+                      "color": "#ebebeb",
+                      "size": "xxs",
+                      "flex": 0,
+                      "text": "documents and words, and visualize results",
+                      "margin": "none"
+                    }
+                  ],
+                  "spacing": "lg"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "filler"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "contents": [
+                        {
+                          "type": "filler"
+                        },
+                        {
+                          "type": "icon",
+                          "url": "https://i.imgur.com/t3lHXfK.png"
+                        },
+                        {
+                          "type": "text",
+                          "text": "View on github",
+                          "color": "#ffffff",
+                          "flex": 0,
+                          "offsetTop": "-2px"
+                        },
+                        {
+                          "type": "filler"
+                        }
+                      ],
+                      "spacing": "sm"
+                    },
+                    {
+                      "type": "filler"
+                    }
+                  ],
+                  "borderWidth": "1px",
+                  "cornerRadius": "4px",
+                  "spacing": "sm",
+                  "borderColor": "#ffffff",
+                  "margin": "xxl",
+                  "height": "40px",
+                  "action": {
+                    "type": "uri",
+                    "label": "action",
+                    "uri": "https://github.com/vincent10400094/DSP-final-project"
+                  }
+                }
+              ],
+              "position": "absolute",
+              "offsetBottom": "0px",
+              "offsetStart": "0px",
+              "offsetEnd": "0px",
+              "backgroundColor": "#9C8E7Ecc",
+              "paddingAll": "20px",
+              "paddingTop": "18px"
+            }
+          ],
+          "paddingAll": "0px"
+        }
+      },
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "image",
+              "url": "https://i.imgur.com/lBLK8rI.jpg",
+              "size": "90%",
+              "aspectMode": "cover",
+              "aspectRatio": "1:2",
+              "gravity": "top"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Information Extraction for Bidding Document",
+                      "size": "md",
+                      "color": "#ffffff",
+                      "weight": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "color": "#ebebeb",
+                      "size": "xxs",
+                      "flex": 0,
+                      "text": "Use NLP techniques to extracts information ",
+                      "margin": "md"
+                    },
+                    {
+                      "type": "text",
+                      "color": "#ebebeb",
+                      "size": "xxs",
+                      "flex": 0,
+                      "text": "from the document to pre-defined tags",
+                      "margin": "none"
+                    }
+                  ],
+                  "spacing": "lg"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "filler"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "contents": [
+                        {
+                          "type": "filler"
+                        },
+                        {
+                          "type": "icon",
+                          "url": "https://i.imgur.com/t3lHXfK.png"
+                        },
+                        {
+                          "type": "text",
+                          "text": "View on github",
+                          "color": "#ffffff",
+                          "flex": 0,
+                          "offsetTop": "-2px"
+                        },
+                        {
+                          "type": "filler"
+                        }
+                      ],
+                      "spacing": "sm"
+                    },
+                    {
+                      "type": "filler"
+                    }
+                  ],
+                  "borderWidth": "1px",
+                  "cornerRadius": "4px",
+                  "spacing": "sm",
+                  "borderColor": "#ffffff",
+                  "margin": "xxl",
+                  "height": "40px",
+                  "action": {
+                    "type": "uri",
+                    "label": "action",
+                    "uri": "https://github.com/vincent10400094/ADL-final-project"
+                  }
+                }
+              ],
+              "position": "absolute",
+              "offsetBottom": "0px",
+              "offsetStart": "0px",
+              "offsetEnd": "0px",
+              "backgroundColor": "#9C3E7Ecb",
+              "paddingAll": "20px",
+              "paddingTop": "18px"
+            }
+          ],
+          "paddingAll": "0px"
+        }
+      }
+    ]
+  }
