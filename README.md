@@ -2,7 +2,9 @@
 
 ## QRcode
 
-Notice : 盡量使用手機與chatbot互動，能保證有完整的功能(ex. 電腦版的Line未必有支援選單服務)
+* Notice 
+  * 盡量使用手機與chatbot互動，能保證有完整的功能(ex. 電腦版的Line未必有支援選單服務)
+  * Heroku上的app隔一陣子沒人使用會關機，因此chatbot的第一次回覆可能需要較長的時間
 
 ![qrcode](./qrcode.png)
 
